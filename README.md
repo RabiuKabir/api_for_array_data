@@ -4,6 +4,6 @@
 
 ``` php artisan key:generate ```
 
-``` php artisan serve ```
+``` php artisan serve ```  
 
 `localhost:8000`
