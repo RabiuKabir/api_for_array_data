@@ -1,0 +1,14 @@
+{
+  "name": "api_for_array_data",
+  "version": "1.0.0",
+  "description": "trial works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rabiu Kabir",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
